@@ -1,4 +1,4 @@
-## Hi, I'm John 👋
+## Hi there, I'm John 👋
 
 Full Stack Engineer focused on **React/TypeScript** frontends and **C#/.NET** backends. I build secure, production applications and payments systems.
 
